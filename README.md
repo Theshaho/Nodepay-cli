@@ -63,8 +63,8 @@ apt install python3-loguru
 ```
 Then run command on step 8
 
-    ```bash
-    python3 Nodepay-cli/nodepay.py
-    ```
+```bash
+python3 Nodepay-cli/nodepay.py
+```
     
   [source](https://github.com/ruesandora/Rivalz/blob/main/Nodepay-cli.md)
