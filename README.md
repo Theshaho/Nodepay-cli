@@ -52,4 +52,19 @@ you can use my referral link to register on Nodepay: [Link](https://app.nodepay.
 In the last command, it will ask you for np token, go to the Nodepay dashboard, press F12 and get it from the place I marked in red (unfortunately, the np token limit is 14 days, so you need to renew it every 14 days).
     ![np](https://github.com/user-attachments/assets/731dd642-46f2-41f4-9de5-60df7e34a1bf)
 
+Detach from screen by Ctl + A + D
+
+## if you get error forLoguru or something like: no module named loguru
+
+use this command to install loguru
+
+```bash
+apt install python3-loguru
+```
+Then run command on step 8
+
+    ```bash
+    python3 Nodepay-cli/nodepay.py
+    ```
+    
   [source](https://github.com/ruesandora/Rivalz/blob/main/Nodepay-cli.md)
