@@ -37,6 +37,10 @@ you can use my referral link to register on Nodepay: [Link](https://app.nodepay.
     ```bash
     ./nodepay_setup.sh
     ```
+
+In the last command, it will ask you for np token, go to the Nodepay dashboard, press F12 and get it from the place I marked in red (unfortunately, the np token limit is 14 days, so you need to renew it every 14 days).
+    ![np](https://github.com/user-attachments/assets/731dd642-46f2-41f4-9de5-60df7e34a1bf)
+    
 7. Grant the necessary permission:
 
     ```bash
@@ -49,8 +53,6 @@ you can use my referral link to register on Nodepay: [Link](https://app.nodepay.
     python3 Nodepay-cli/nodepay.py
     ```
 
-In the last command, it will ask you for np token, go to the Nodepay dashboard, press F12 and get it from the place I marked in red (unfortunately, the np token limit is 14 days, so you need to renew it every 14 days).
-    ![np](https://github.com/user-attachments/assets/731dd642-46f2-41f4-9de5-60df7e34a1bf)
 
 Detach from screen by Ctl + A + D
 
